@@ -8,7 +8,7 @@
 *  Student ID: 141560201
 *  Date: 10th April 2022
 *
-*  Angular App (Deployed) Link: _____________________________________________________
+*  Angular App (Deployed) Link: https://seneca-music-web-422.vercel.app/login
 *
 *  User API (Heroku) Link: https://web422assignment-server.herokuapp.com/api/user
 
